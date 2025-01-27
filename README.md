@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Isaac Morah  
+# Hi there! 👋 I'm I.C.M  
 
 🎯 Aspiring **Junior DevOps Engineer** passionate about automation, cloud-native technologies, and CI/CD pipelines.  
 📍 Currently learning advanced Kubernetes features and exploring GitOps workflows.  
